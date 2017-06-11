@@ -13,5 +13,6 @@ public class App extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(App.class, args);
 		System.out.println("-----> start success...");
+		System.out.println("test github");
 	}
 }
